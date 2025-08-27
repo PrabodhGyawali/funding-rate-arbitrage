@@ -9,7 +9,7 @@ python_binance==1.0.17
 python_okx==0.3.1
 Requests==2.32.3
 scikit_learn==1.5.1
-setuptools==68.2.2
+setuptools==70.0.0
 synthetix>=0.1.13
 web3>=7.0.0
 gmx_python_sdk @ git+https://github.com/50shadesofgwei/gmx_python_sdk_custom.git@main
